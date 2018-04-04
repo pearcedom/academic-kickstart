@@ -13,7 +13,7 @@ weight = 5
     "Disease Prediction",
     "Cancer Informatics",
     "Genomics",
-    "...fantasy football"
+    "Fantasy Football"
   ]
 
 # List your qualifications (such as academic degrees).

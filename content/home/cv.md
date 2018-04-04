@@ -9,7 +9,7 @@
 **PROFILE** [https://github.com/pearcedom](https://github.com/pearcedom)
 
 ##### SUMMARY
-Bioinformatics PhD candidate investigating breast cancer treatment prediction. MSc, BSc. Proficient in computational biology, high throughput data analysis, microarray and RNA-seq analysis. Fluent in Python and R. Passable in French.
+Bioinformatics PhD candidate investigating breast cancer treatment prediction. MSc, BSc. Proficient in computational biology, high throughput data analysis, microarray and RNA-seq analysis. Fluent in **Python**, **R**, **UNIX**, **Markdown**, **LaTex** and **Git**. Passable in French.
 
 ##### EDUCATION
  - 2014-2018 **PhD** at Institute of Genetics and Molecular Medicine, University of Edinburgh, UK. Supervisor : Dr. Andrew Sims. Provisional thesis : *'Considerations for robust transcriptomic analysis in breast cancer prediction and treatment'*.
