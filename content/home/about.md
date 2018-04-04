@@ -10,31 +10,36 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Disease Prediction",
+    "Cancer Informatics",
+    "Genomics",
+    "...fantasy football"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Cancer Informatics"
+  institution = "University of Edinburgh"
+  year = "2018 (pending)"
+
+[[education.courses]]
+  course = "MSc (distinction) in Cancer Cell & Molecular Biology"
+  institution = "University of Leicester"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biochemistry"
+  institution = "University of Nottingham"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Final year PhD student at the University of Edinburgh's Institute of Genetics and Molecular Medicine, working in the Applied Bioinformatics of Cancer research group. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+## Research
+Manipulation of large molecular datasets in an attempt to characterise patient-derived tumour material and its relationship with response to treatment and prognosis. By better stratifying patients based on their molecular characteristics we hope to achieve a two-fold benefit in i) correctly assigning treatment to patients and ii) avoiding unnecessary overtreatment.
+
+## Background
+From 2007-2012 I studied biochemistry and cancer biology, completing research projects investigating the role of JAK-STAT signalling in cancer as well as exploring the potential for low-dose doxorubicin treatment for breast cancer. I have studied in the applied bioinformatics of cancer group since 2014 publishing twice, and am currently in the process of submitting my thesis. Beyond science I have several years experience as a chef in Lyon, France.
